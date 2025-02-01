@@ -13,7 +13,7 @@ I'm Karthik Murali, a college student pursuing a BS in Data Science at IITM, wit
 
 # 🔧 Skills
 - Programming Languages: Python, C++, JavaScript, TypeScript, SQL
-- Libraries & Frameworks: React, Tailwind, Power BI
+- Libraries & Frameworks: React, Tailwind, Power BI,Matplotlib, Seaborn,Scikit-Learn
 - Tools & Platforms: Git, Excel
 
 # 🌱 Currently Learning
