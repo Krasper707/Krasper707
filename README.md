@@ -28,6 +28,8 @@ I'm Karthik Murali, a college student pursuing a BS in Data Science at IITM, wit
 LinkedIn: [Visit my LinkedIn](www.linkedin.com/in/m-karthik-murali-3007a6293/)
 <br>
 Twitter: [Visit my Twitter](https://x.com/KarthikM440797/)
+<br> 
+Medium: [Visit my Medium](https://medium.com/@karthikmuralim69)
 
 
 
