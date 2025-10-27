@@ -93,6 +93,14 @@ A Data Science student at the **Indian Institute of Technology Madras (IITM) BS 
 </p>
 
 ---
+### My Leetcode Stats
+<p align="center">
+  <img 
+    src="https://leetcode-stats-card-ig-idk.vercel.app/api/stats/Krasper707?theme=arch" 
+    alt="Saurabh's LeetCode Stats"
+    style="background-color: #0C0C0C; border-radius: 6px;"
+  />
+</p>
 
 ### 📫 Let's Connect!
 
