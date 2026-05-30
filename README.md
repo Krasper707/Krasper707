@@ -98,7 +98,7 @@ I am an active contributor to the **GirlScript Summer of Code (GSSoC) 2026**, wh
 
 </div>
 
-
+[![An image of @krasper707's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krasper707)](https://holopin.io/@krasper707)
 --- 
 
 
