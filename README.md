@@ -83,7 +83,24 @@ A Data Science student at the **Indian Institute of Technology Madras (IITM) BS 
   </tr>
 </table>
 
+
+
 ---
+
+### 🏆 Open Source Excellence
+I am an active contributor to the **GirlScript Summer of Code (GSSoC) 2026**, where I contribute to large-scale open-source projects. I am currently participating in both the **Open Source Track** and the **AI Agents Track**, focusing on building intelligent automation, optimizing codebases, and collaborating with a global community of developers to ship production-ready features.
+
+<div align="center">
+
+| Open Source Track | AI Agents Track | Contributor Badge |
+| :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/32a5127b-b357-4d82-b989-aa11a4f4da2b" width="250" /> | <img src="https://github.com/user-attachments/assets/f740519b-d7f1-4f50-bf14-c8dcafff7004" width="250" /> | <img src="https://github.com/user-attachments/assets/549e3401-0bcf-4921-8f25-a6930fcf2ece" width="250" /> |
+
+</div>
+
+
+--- 
+
 
 ### 📊 My GitHub Activity
 
